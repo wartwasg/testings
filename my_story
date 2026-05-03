@@ -1,6 +1,4 @@
-my name is Denis Daniel Mfallah
-am 20 years old now
-am a frontend developer
-and my friend is daniel elias mgaya
-he is 22 years old bro
-My girl friends name is Doreen Daniel Elisa
+daniel@daniel:~$ git config --list --show-origin
+file:/home/daniel/.gitconfig    user.name=wartwasg
+file:/home/daniel/.gitconfig    user.email=dannyelias751@gmail.com
+daniel@daniel:~$ 
