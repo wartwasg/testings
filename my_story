@@ -1,4 +1,9 @@
 daniel@daniel:~$ git config --list --show-origin
 file:/home/daniel/.gitconfig    user.name=wartwasg
 file:/home/daniel/.gitconfig    user.email=dannyelias751@gmail.com
+daniel@daniel:~$ git config --global user.name "wartwasg"
+daniel@daniel:~$ git config --global user.email "dannyelias751@gmail.com"
+daniel@daniel:~$ git config --list --show-origin
+file:/home/daniel/.gitconfig    user.name=wartwasg
+file:/home/daniel/.gitconfig    user.email=dannyelias751@gmail.com
 daniel@daniel:~$ 
